@@ -22,6 +22,6 @@ Myself Monika N S ,I'm a Computer Science Student and,I'm also Intrested in Lear
 
 
 ## Quote
-> "The journey of a thousand miles begins with one step. 💫💫"
+> The journey of a thousand miles begins with one step💫💫
 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
