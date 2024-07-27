@@ -8,6 +8,8 @@ Myself Monika N S ,I'm a Computer Science Student and,I'm also Intrested in Lear
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -20,6 +22,6 @@ Myself Monika N S ,I'm a Computer Science Student and,I'm also Intrested in Lear
 
 
 ## Quote
-> "The journey of a thousand miles begins with one step."
+> "The journey of a thousand miles begins with one step. 💫💫"
 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
