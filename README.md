@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Myself Monika N S ,I'm a Computer Science Student and,I'm also Intrested in Learning new technologies.
+Hi, I'm Monika N S, a Computer Science student with a passion for exploring new technologies and expanding my knowledge in the tech field.
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -22,6 +22,6 @@ Myself Monika N S ,I'm a Computer Science Student and,I'm also Intrested in Lear
 
 
 ## Quote
-> The journey of a thousand miles begins with one step💫💫
+> The best way to predict the future is to create it...💫💫
 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
