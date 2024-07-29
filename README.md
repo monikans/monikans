@@ -12,6 +12,7 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
