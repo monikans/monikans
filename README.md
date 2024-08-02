@@ -18,6 +18,14 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9900?logo=jupyter&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monikans&show_icons=true&locale=en&layout=compact" alt="monikans" /></p>
 
