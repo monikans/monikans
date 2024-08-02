@@ -29,8 +29,10 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monikans&show_icons=true&locale=en&layout=compact" alt="monikans" /></p>
 
-
 ## Quote
 > The best way to predict the future is to create it...💫💫
+
+## Leetcode
+![](https://leetcard.jacoblin.cool/monika_n_s?ext=heatmap)
 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
