@@ -32,7 +32,4 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 ## Quote
 > The best way to predict the future is to create it...💫💫
 
-## Leetcode
-![](https://leetcard.jacoblin.cool/monika_n_s?ext=heatmap)
-
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
