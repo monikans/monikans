@@ -35,5 +35,5 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
-![Monika N S's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=monikans&show_icons=true&theme=radical)
+![Monika N S's GitHub stats](https://github-readme-stats.vercel.app/api?username=monikans&show_icons=true&theme=radical)
