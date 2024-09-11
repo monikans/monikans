@@ -33,3 +33,7 @@ Hi, I'm Monika N S, a Computer Science student with a passion for exploring new 
 > The best way to predict the future is to create it...💫💫
 
 ![Profile views](https://komarev.com/ghpvc/?username=monikans)
+
+## 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
+![Monika N S's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdeepa&show_icons=true&theme=radical)
